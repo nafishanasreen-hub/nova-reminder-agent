@@ -1,0 +1,6 @@
+{
+  "name": "Nova Personal Assistant Agent & Dev Studio",
+  "description": "An intelligent personal assistant agent for reminders, daily planning, calendar scheduling, and everyday task management with an interactive step-by-step agent development lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
